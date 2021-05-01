@@ -1,4 +1,5 @@
-### Hi there 👋
+###             Hi there 👋
+###           ✨Nikirushka✨
 - 🔭 I’m currently working on my projects
 - 🌱 I’m currently learning C#
 - 📫 How to reach me : Tg - @Nikirushka 
